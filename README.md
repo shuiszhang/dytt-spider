@@ -4,3 +4,7 @@
 ## dependencies
 * node.js
 * mongodb
+
+## usage
+* git clone
+* npm run spider
